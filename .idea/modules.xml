@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearnOpenGL.iml" filepath="$PROJECT_DIR$/LearnOpenGL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson1/lessons-lesson1.iml" filepath="$PROJECT_DIR$/lessons/lesson1/lessons-lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson2/lessons-lesson2.iml" filepath="$PROJECT_DIR$/lessons/lesson2/lessons-lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson3/lessons-lesson3.iml" filepath="$PROJECT_DIR$/lessons/lesson3/lessons-lesson3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson4/lessons-lesson4.iml" filepath="$PROJECT_DIR$/lessons/lesson4/lessons-lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson5/lessons-lesson5.iml" filepath="$PROJECT_DIR$/lessons/lesson5/lessons-lesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson6/lessons-lesson6.iml" filepath="$PROJECT_DIR$/lessons/lesson6/lessons-lesson6.iml" />
+    </modules>
+  </component>
+</project>
